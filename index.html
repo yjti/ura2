@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My PDF Viewer</title>
+  <title>URA DMP2025 Fringe Events Calendar</title>
   <style>
   html, body {
     margin: 0;
@@ -20,6 +20,18 @@
     border-bottom: 1px solid #ccc;
     z-index: 1000;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  header img {
+    height: 40px; 
+    width: auto;
+  }
+
+  header strong {
+    font-size: 1.5rem;
   }
 
   .pdf-container {
@@ -37,6 +49,7 @@
 </head>
 <body>
   <header>
+    <img src="ura-logo.png" alt="URA Logo" />
     <strong>URA DMP2025 Fringe Events Calendar</strong>
   </header>
 
