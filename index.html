@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>URA DMP2025 Fringe Events Calendar</title>
   <style>
   html, body {
@@ -41,10 +41,11 @@
   }
 
   iframe {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     border: none;
     display: block;
+    overflow: hidden;
   }
 </style>
 </head>
