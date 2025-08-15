@@ -322,10 +322,21 @@
       "status": "available"
     },
     {
-      "title": "Award ceremony for the Visions of the Sembawang Shipyard Competition",
-      "description": "Join us for \"Visions of Sembawang Shipyard\" Poetry Competition awards ceremony & public reading of winning poems!",
+      "title": "Visioning workshop for former Singapore Racecourse",
+      "description": "Sign up to be a part of this Focus Group Discussion to share ideas on the planning for the former Singapore Racecourse!",
       "image": "event-pictures/event27.jpg",
       "qr": "event-qr/qr27.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-23",
+      "endDate": "2025-08-23",
+      "type": "Workshop",
+      "status": "available"
+    },
+    {
+      "title": "Award ceremony for the Visions of the Sembawang Shipyard Competition",
+      "description": "Join us for \"Visions of Sembawang Shipyard\" Poetry Competition awards ceremony & public reading of winning poems!",
+      "image": "event-pictures/event28.jpg",
+      "qr": "event-qr/qr28.png",
       "soldOutQr": "event-qr/qr-sold-out.png",
       "date": "2025-08-24",
       "endDate": "2025-08-24",
@@ -335,8 +346,8 @@
     {
       "title": "Tampines Transformed: Rejuvenate Your Regional Hub!",
       "description": "Shape TRC's future! Join URA planners for a walking tour to create a more vibrant Tampines town centre",
-      "image": "event-pictures/event28.jpg",
-      "qr": "event-qr/qr28.png",
+      "image": "event-pictures/event29.jpg",
+      "qr": "event-qr/qr29.png",
       "soldOutQr": "event-qr/qr-sold-out.png",
       "date": "2025-08-24",
       "endDate": "2025-08-24",
