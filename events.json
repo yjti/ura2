@@ -1,6 +1,6 @@
 
 {
-  "cutoffDate": "2025-08-26",
+  "cutoffDate": "2025-08-31",
   "events": [
     {
       "title": "Waves of Wellness @ Marina Central",
@@ -319,7 +319,7 @@
       "date": "2025-08-23",
       "endDate": "2025-08-23",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "waitlist"
     },
     {
       "title": "Visioning workshop for former Singapore Racecourse",
@@ -351,6 +351,17 @@
       "soldOutQr": "event-qr/qr-sold-out.png",
       "date": "2025-08-24",
       "endDate": "2025-08-24",
+      "type": "Guided Tour",
+      "status": "sold-out"
+    },
+    {
+      "title": "From Eye Level to High Level: Urban Planning in Bedok",
+      "description": "Join URA's planners on this Bedok walking tour to learn more about how planners work with the community and stakeholders!",
+      "image": "event-pictures/event34.jpg",
+      "qr": "event-qr/qr34.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-31",
+      "endDate": "2025-08-31",
       "type": "Guided Tour",
       "status": "sold-out"
     }
