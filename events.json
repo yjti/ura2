@@ -1,6 +1,6 @@
 
 {
-  "cutoffDate": "2025-08-31",
+  "cutoffDate": "2025-09-02",
   "events": [
     {
       "title": "Waves of Wellness @ Marina Central",
@@ -198,7 +198,7 @@
       "date": "2025-08-20",
       "endDate": "2025-08-20",
       "type": "Guided Tour",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "Self-guided tour of Sembawang Heritage Trail",
@@ -209,7 +209,8 @@
       "date": "2025-08-19",
       "endDate": "2025-08-31",
       "type": "Self Guided Tour",
-      "status": "information"
+      "status": "information",
+      "featured": true
     },
     {
       "title": "Self-guided tour of Woodlands Heritage Trail",
@@ -242,7 +243,7 @@
       "date": "2025-08-20",
       "endDate": "2025-08-20",
       "type": "Activity",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "Dream Storeys by Clara Chow (Singapore Literature Book Club)",
@@ -352,7 +353,7 @@
       "date": "2025-08-24",
       "endDate": "2025-08-24",
       "type": "Guided Tour",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "From Eye Level to High Level: Urban Planning in Bedok",
@@ -363,7 +364,117 @@
       "date": "2025-08-31",
       "endDate": "2025-08-31",
       "type": "Guided Tour",
+      "status": "remove"
+    },
+    {
+      "title": "Biodiversity Walk at Lim Chu Kang Nature Park/Cashin House",
+      "description": "Join us on a family-friendly walk in Lim Chu Kang! Explore rubber plantations, mangroves & Cashin House!",
+      "image": "event-pictures/event30.jpg",
+      "qr": "event-qr/qr30.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-26",
+      "endDate": "2025-08-26",
+      "type": "Guided Tour",
       "status": "sold-out"
+    },
+    {
+      "title": "Workshop: Craft A Coastal Neighbourhood Protected Against Rising Seas",
+      "description": "Envision, design & build a coastal neighbourhood that combines vibrant community spaces with coastal protection solutions.",
+      "image": "event-pictures/event31.jpg",
+      "qr": "event-qr/qr31.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-29",
+      "endDate": "2025-08-29",
+      "type": "Workshop",
+      "status": "remove"
+    },
+    {
+      "title": "'Riding the Tides' Exhibition at VivoCity",
+      "description": "Discover how rising sea levels could impact our island & Singapore’s plan to safeguard our coastline for generations to come.",
+      "image": "event-pictures/event40.jpg",
+      "qr": "event-qr/qr40.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-28",
+      "endDate": "2025-08-31",
+      "type": "Activity",
+      "status": "information"
+    },
+    {
+      "title": "Future Redevelopment of Sembawang Shipyard district Workshop",
+      "description": "Join us at the Sembawang Shipyard workshop to share your thoughts on SIA/SIP's key ideas for the area's future redevelopment.",
+      "image": "event-pictures/event38.jpg",
+      "qr": "event-qr/qr38.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-30",
+      "endDate": "2025-08-30",
+      "type": "Workshop",
+      "status": "sold-out"
+    },
+    {
+      "title": "DMP25 x SG60 x PAssion Wave Cycling tour",
+      "description": "Cycle from PAssion Wave to Sembawang Hot Spring Park! Join our SG60 celebration on this scenic 3-hour round trip.",
+      "image": "event-pictures/event32.jpg",
+      "qr": "event-qr/qr32.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-30",
+      "endDate": "2025-08-30",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "DMP25 x SG60 x PAssion Wave Walking Heritage Tour",
+      "description": "Explore historic Kampong Wak Hassan! Walk coastal paths, see heritage bungalows & end at PAssion Wave for sea views.",
+      "image": "event-pictures/event33.jpg",
+      "qr": "event-qr/qr33.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-30",
+      "endDate": "2025-08-30",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "North-South Corridor Master Plan Pop-up @ Causeway Point",
+      "description": "Want to learn more about the North-South Corridor Surface Streets Master Plan and share your views? Come visit our booth at Causeway Point!",
+      "image": "event-pictures/event35.jpg",
+      "qr": "event-qr/qr35.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-30",
+      "endDate": "2025-08-30",
+      "type": "Activity",
+      "status": "information"
+    },
+    {
+      "title": "DMP25 x SG60 x PAssion Wave Cycling tour",
+      "description": "Cycle from PAssion Wave to Sembawang Hot Spring Park! Join our SG60 celebration on this scenic 3-hour round trip.",
+      "image": "event-pictures/event36.jpg",
+      "qr": "event-qr/qr36.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-31",
+      "endDate": "2025-08-31",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "DMP25 x SG60 x PAssion Wave Walking Heritage Tour",
+      "description": "Explore historic Kampong Wak Hassan! Walk coastal paths, see heritage bungalows & end at PAssion Wave for sea views.",
+      "image": "event-pictures/event37.jpg",
+      "qr": "event-qr/qr37.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-08-31",
+      "endDate": "2025-08-31",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Craft Workshop: Lower Seletar Edition",
+      "description": "Kids 7-12: Be city planners for a day! Join this fun 1hr workshop to design Lower Seletar town with your family.",
+      "image": "event-pictures/event39.jpg",
+      "qr": "event-qr/qr39.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-02",
+      "endDate": "2025-09-14",
+      "type": "Workshop",
+      "status": "available"
     }
     
   ]
