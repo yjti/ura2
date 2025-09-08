@@ -1,6 +1,6 @@
 
 {
-  "cutoffDate": "2025-09-09",
+  "cutoffDate": "2025-09-23",
   "events": [
     {
       "title": "Waves of Wellness @ Marina Central",
@@ -202,36 +202,37 @@
     },
     {
       "title": "Self-guided tour of Sembawang Heritage Trail",
-      "description": "Discover Sembawang through a heritage trail. Snap selfies and get exclusive prizes at Causeway Point while stocks lasts!",
+      "description": "Discover Sembawang through a heritage trail. Snap selfies and get exclusive prizes at North Point City while stocks lasts!",
       "image": "event-pictures/event18a.jpg",
       "qr": "event-qr/qr18a.png",
       "soldOutQr": "event-qr/qr-sold-out.png",
-      "date": "2025-08-19",
-      "endDate": "2025-08-31",
+      "date": "2025-09-02",
+      "endDate": "2025-09-14",
       "type": "Self Guided Tour",
       "status": "information"
     },
     {
       "title": "Self-guided tour of Woodlands Heritage Trail",
-      "description": "Discover Woodlands through a heritage trail. Snap a selfie and get exclusive prizes at Causeway Point while stocks last!",
+      "description": "Discover Woodlands through a heritage trail. Snap a selfie and get exclusive prizes at North Point City while stocks last!",
       "image": "event-pictures/event18b.jpg",
       "qr": "event-qr/qr18b.png",
       "soldOutQr": "event-qr/qr-sold-out.png",
-      "date": "2025-08-19",
-      "endDate": "2025-08-31",
+      "date": "2025-09-02",
+      "endDate": "2025-09-14",
       "type": "Self Guided Tour",
       "status": "information"
     },
     {
       "title": "Self-guided tour of Northern Explorer Loop",
-      "description": "Explore parks along the Northern Explorer Loop. Snap selfies to get exclusive prizes at Causeway Point while stocks last!",
+      "description": "Explore parks along the Northern Explorer Loop. Snap selfies to get exclusive prizes at North Point City while stocks last!",
       "image": "event-pictures/event18c.jpg",
       "qr": "event-qr/qr18c.png",
       "soldOutQr": "event-qr/qr-sold-out.png",
-      "date": "2025-08-19",
-      "endDate": "2025-08-31",
+      "date": "2025-09-02",
+      "endDate": "2025-09-14",
       "type": "Self Guided Tour",
-      "status": "information"
+      "status": "information",
+      "featured": true
     },
     {
       "title": "Sun Plaza Park: Therapeutic Garden Activity",
@@ -484,7 +485,7 @@
       "date": "2025-09-05",
       "endDate": "2025-09-05",
       "type": "Activity",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "Coastal Crafts Workshop and Gallery Tour",
@@ -495,8 +496,7 @@
       "date": "2025-09-05",
       "endDate": "2025-09-05",
       "type": "Activity",
-      "status": "Available",
-      "featured": true
+      "status": "remove"
     },
     {
       "title": "SportSG: $100 SG60 ActiveSG Credits/AHrena Lite",
@@ -507,7 +507,7 @@
       "date": "2025-09-06",
       "endDate": "2025-09-07",
       "type": "Activity",
-      "status": "Information"
+      "status": "remove"
     },
     {
       "title": "Coastal Crafts Workshop and Gallery Tour",
@@ -518,7 +518,7 @@
       "date": "2025-09-06",
       "endDate": "2025-09-06",
       "type": "Activity",
-      "status": "Available"
+      "status": "remove"
     },
     {
       "title": "North-South Corridor Master Plan Pop-up @ North Point City",
@@ -529,7 +529,8 @@
       "date": "2025-09-06",
       "endDate": "2025-09-06",
       "type": "Activity",
-      "status": "Information"
+      "status": "Information",
+      "featured": true
     },
     {
       "title": "Sungei Buloh Tour: What's in my Water?",
@@ -551,7 +552,7 @@
       "date": "2025-09-07",
       "endDate": "2025-09-07",
       "type": "Guided Tour",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "Guided tour of sports facilities in Bukit Canberra",
@@ -574,6 +575,128 @@
       "endDate": "2025-09-07",
       "type": "Activity",
       "status": "Available"
+    },
+    {
+      "title": "Find Your Folks @ Jalan Besar: Makers' Trail",
+      "description": "Rediscover Jalan Besar through a self-guided walk and a two-day street festival (20-21 Sept) with music, fashion, art, food & sports!",
+      "image": "event-pictures/event-fyf.jpg",
+      "qr": "event-qr/qr-fyf.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-11",
+      "endDate": "2025-09-21",
+      "type": "Activity",
+      "status": "Information"
+    },
+    {
+      "title": "Singapore River Festival 2025",
+      "description": "Celebrate the 9th Singapore River Festival with art, markets, eco-activities at Boat Quay, Clarke Quay & Robertson Quay.",
+      "image": "event-pictures/event-srf.jpg",
+      "qr": "event-qr/qr-srf.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-12",
+      "endDate": "2025-09-21",
+      "type": "Activity",
+      "status": "Information"
+    },
+    {
+      "title": "Heritage Walk at Lim Chu Kang: Cashin House",
+      "description": "Join historical walk at Cashin House and hear stories about the historical landscape of Lim Chu Kang.",
+      "image": "event-pictures/event-lckch.jpg",
+      "qr": "event-qr/qr-lckch.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-12",
+      "endDate": "2025-09-12",
+      "type": "Guided Tour",
+      "status": "Waitlist"
+    },
+    {
+      "title": "SportSG: $100 SG60 ActiveSG Credits/AHrena Lite",
+      "description": "Learn more about the SG60 $100 ActiveSG credit top-up & join the AHrena fitness challenge at Northpoint!",
+      "image": "event-pictures/event-ssg.jpg",
+      "qr": "event-qr/qr-ssg.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-14",
+      "type": "Activity",
+      "status": "Information"
+    },
+    {
+      "title": "PAssion Wave x SG60 Dragon Boat Expedition (AM)",
+      "description": "Join a dragon boat expedition from Kolam Ayer to Marina Bay! Explore iconic landmarks on this fun fitness adventure.",
+      "image": "event-pictures/event-padb.jpg",
+      "qr": "event-qr/qr-padb1.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-13",
+      "type": "Activity",
+      "status": "Available"
+    },
+    {
+      "title": "PAssion Wave x SG60 Dragon Boat Expedition (PM)",
+      "description": "Join a dragon boat expedition from Kolam Ayer to Marina Bay! Explore iconic landmarks on this fun fitness adventure.",
+      "image": "event-pictures/event-padb.jpg",
+      "qr": "event-qr/qr-padb2.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-13",
+      "type": "Activity",
+      "status": "Available"
+    },
+    {
+      "title": "Biodiversity Walk at Lim Chu Kang Nature Park/Cashin House",
+      "description": "Join our family walk in Lim Chu Kang! Explore rubber plantations, mangroves & Cashin House with NParks guides.",
+      "image": "event-pictures/event-lcknp.jpg",
+      "qr": "event-qr/qr-lcknp.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-13",
+      "type": "Guided Tour",
+      "status": "waitlist"
+    },
+    {
+      "title": "Guided Tour of sports facilities in Bukit Canberra",
+      "description": "Bukit Canberra, a 12ha hub near Sembawang MRT, offers diverse sports and wellness facilities. Come join us on a tour!",
+      "image": "event-pictures/event-gtbc.jpg",
+      "qr": "event-qr/qr-gtbc.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-13",
+      "type": "Guided Tour",
+      "status": "Available",
+      "featured": true
+    },
+    {
+      "title": "North-South Corridor Master Plan Pop-up @ North Point City",
+      "description": "Visit our booth at Northpoint City to learn about & share views on the North-South Corridor Surface Streets Master Plan!",
+      "image": "event-pictures/event45.jpg",
+      "qr": "event-qr/qr45.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-13",
+      "type": "Activity",
+      "status": "Information"
+    },
+    {
+      "title": "What's in my mangrove?",
+      "description": "Explore Singapore's rare mangrove ecosystem at Sungei Buloh Wetland Reserve where freshwater meets sea.",
+      "image": "event-pictures/event-gtwimm.jpg",
+      "qr": "event-qr/qr-gtwimm.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-13",
+      "endDate": "2025-09-13",
+      "type": "Guided Tour",
+      "status": "waitlist"
+    },
+    {
+      "title": "Find Your Folks @ Jalan Besar: Street Festival",
+      "description": "Rediscover Jalan Besar through a self-guided walk and a two-day street festival with music, fashion, art, food & sports!",
+      "image": "event-pictures/event-fyf.jpg",
+      "qr": "event-qr/qr-fyf.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-21",
+      "type": "Activity",
+      "status": "Information"
     }
   ]
 }
