@@ -209,7 +209,7 @@
       "date": "2025-09-02",
       "endDate": "2025-09-14",
       "type": "Self Guided Tour",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Self-guided tour of Woodlands Heritage Trail",
@@ -220,7 +220,7 @@
       "date": "2025-09-02",
       "endDate": "2025-09-14",
       "type": "Self Guided Tour",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Self-guided tour of Northern Explorer Loop",
@@ -231,8 +231,7 @@
       "date": "2025-09-02",
       "endDate": "2025-09-14",
       "type": "Self Guided Tour",
-      "status": "information",
-      "featured": true
+      "status": "remove"
     },
     {
       "title": "Sun Plaza Park: Therapeutic Garden Activity",
@@ -529,8 +528,7 @@
       "date": "2025-09-06",
       "endDate": "2025-09-06",
       "type": "Activity",
-      "status": "Information",
-      "featured": true
+      "status": "Information"
     },
     {
       "title": "Sungei Buloh Tour: What's in my Water?",
@@ -662,8 +660,7 @@
       "date": "2025-09-13",
       "endDate": "2025-09-13",
       "type": "Guided Tour",
-      "status": "Available",
-      "featured": true
+      "status": "Available"
     },
     {
       "title": "North-South Corridor Master Plan Pop-up @ North Point City",
@@ -688,6 +685,116 @@
       "status": "waitlist"
     },
     {
+      "title": "Self-guided tour of Tiong Bahru",
+      "description": "Discover Tiong Bahru's heritage! Snap selfies at 2 locations to get a limited gift at Great World City while stocks last!",
+      "image": "event-pictures/event-sgttb.jpg",
+      "qr": "event-qr/qr-sgttb.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-16",
+      "endDate": "2025-09-28",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+    {
+      "title": "DISTRICT M @ Marina Square",
+      "description": "DISTRICT M fest brings music to Marina! Catch local & global acts at Marina Square, Millenia Walk & more.",
+      "image": "event-pictures/event-dm.jpg",
+      "qr": "event-qr/qr-dm.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-19",
+      "endDate": "2025-09-20",
+      "type": "Activity",
+      "status": "Information"
+    },
+    {
+      "title": "Designing Tomorrow's Shores: Coastal Crafts Workshop",
+      "description": "Be city planners and design your very own 'Long Island' through this fun 1-hour workshop! Venue @ SingPost Centre Atrium",
+      "image": "event-pictures/event-dtsccw2.jpg",
+      "qr": "event-qr/qr-dtsccw2.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Activity",
+      "status": "available"
+    },
+    {
+      "title": "Paper Paradise: Long Island Edition",
+      "description": "Kids 7-12: Design 'Long Island' with AI! Join our parent-child holiday workshop to explore Singapore's future planning.",
+      "image": "event-pictures/event-urapp.jpg",
+      "qr": "event-qr/qr-urapp.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Workshop",
+      "status": "available"
+    },
+    {
+      "title": "Paper Paradise: Dover-Medway Edition",
+      "description": "Kids 7-12: Learn how we plan for Singapore and try designing a future town at Dover-Medway! Workshop @ Great World City",
+      "image": "event-pictures/event-ppdm.jpg",
+      "qr": "event-qr/qr-ppdm.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Workshop",
+      "status": "available"
+    },
+    {
+      "title": "Singapore Botanic Gardens: Heritage Tour",
+      "description": "Explore Singapore Botanic Gardens' Heritage Core! Discover 150 years of history from rubber origins to heritage trees!",
+      "image": "event-pictures/event-sbght.jpg",
+      "qr": "event-qr/qr-sbght.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Singapore Botanic Gardens: Learning Forest Tour",
+      "description": "Tour elevated paths through Learning Forest's wetlands and rainforest, featuring unique trees and wild fruit arboretum!",
+      "image": "event-pictures/event-sbglft.jpg",
+      "qr": "event-qr/qr-sbglft.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Singapore Botanic Gardens: Orchid Garden Tour",
+      "description": "Discover over 1,000 orchid species including Singapore's national flower at the National Orchid Garden's themed zones!",
+      "image": "event-pictures/event-sbgogt.jpg",
+      "qr": "event-qr/qr-sbgogt.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Singapore Deviation Public Art Tour",
+      "description": "Explore public art along the Rail Corridor on a special Singapore Deviation tour curated by The Everyday Museum and URA.",
+      "image": "event-pictures/event-sgdpat.jpg",
+      "qr": "event-qr/qr-sgdpat.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Stories in Stone: Katong-Joo Chiat Built Heritage & Historical Tour ",
+      "description": "Journey through the rich history and iconic buildings of Katong-Joo Chiat, guided by our HAN Heritage Champions.",
+      "image": "event-pictures/event-siskjc.jpg",
+      "qr": "event-qr/qr-siskjc.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-20",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
       "title": "Find Your Folks @ Jalan Besar: Street Festival",
       "description": "Rediscover Jalan Besar through a self-guided walk and a two-day street festival with music, fashion, art, food & sports!",
       "image": "event-pictures/event-fyf.jpg",
@@ -699,15 +806,26 @@
       "status": "Information"
     },
     {
-      "title": "Singapore River Festival 2025",
-      "description": "Celebrate the 9th Singapore River Festival with art, markets, eco-activities at Boat Quay, Clarke Quay & Robertson Quay.",
-      "image": "event-pictures/event-srf.jpg",
-      "qr": "event-qr/qr-srf.png",
+      "title": "Designing Tomorrow's Shores: Coastal Crafts Workshop",
+      "description": "Be city planners and design your very own 'Long Island' through this fun 1-hour workshop! Venue @ SingPost Centre Atrium",
+      "image": "event-pictures/event-dtsccw2.jpg",
+      "qr": "event-qr/qr-dtsccw2-a.png",
       "soldOutQr": "event-qr/qr-sold-out.png",
-      "date": "2025-09-20",
+      "date": "2025-09-21",
       "endDate": "2025-09-21",
       "type": "Activity",
-      "status": "Information"
+      "status": "available"
+    },
+    {
+      "title": "Guided Walk of St John's Island",
+      "description": "Discover the rich biodiversity and history of St John's Island on this 1.6km walking tour!",
+      "image": "event-pictures/event-gwsji.jpg",
+      "qr": "event-qr/qr-gwsji.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-21",
+      "endDate": "2025-09-21",
+      "type": "Guided Tour",
+      "status": "waitlist"
     }
   ]
 }
