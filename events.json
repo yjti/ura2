@@ -697,6 +697,17 @@
       "endDate": "2025-09-21",
       "type": "Activity",
       "status": "Information"
+    },
+    {
+      "title": "Singapore River Festival 2025",
+      "description": "Celebrate the 9th Singapore River Festival with art, markets, eco-activities at Boat Quay, Clarke Quay & Robertson Quay.",
+      "image": "event-pictures/event-srf.jpg",
+      "qr": "event-qr/qr-srf.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-20",
+      "endDate": "2025-09-21",
+      "type": "Activity",
+      "status": "Information"
     }
   ]
 }
