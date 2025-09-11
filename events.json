@@ -575,6 +575,18 @@
       "status": "Available"
     },
     {
+      "title": "Self-guided Katong-Joo Chiat Trail Activity Books",
+      "description": "Explore Katong-Joo Chiat on family-friendly trails! Snap a selfie to score prizes at SingPost Centre, while stocks last.",
+      "image": "event-pictures/event-sgtkjc.jpg",
+      "qr": "event-qr/qr-sgtkjc.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-09",
+      "endDate": "2025-09-21",
+      "type": "Self Guided Tour",
+      "status": "Information",
+      "featured": true
+    },
+    {
       "title": "Find Your Folks @ Jalan Besar: Makers' Trail",
       "description": "Rediscover Jalan Besar through a self-guided walk and a two-day street festival (20-21 Sept) with music, fashion, art, food & sports!",
       "image": "event-pictures/event-fyf.jpg",
