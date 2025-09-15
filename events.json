@@ -760,7 +760,7 @@
       "date": "2025-09-20",
       "endDate": "2025-09-20",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "information"
     },
     {
       "title": "Singapore Botanic Gardens: Learning Forest Tour",
@@ -771,7 +771,7 @@
       "date": "2025-09-20",
       "endDate": "2025-09-20",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "information"
     },
     {
       "title": "Singapore Botanic Gardens: Orchid Garden Tour",
@@ -782,7 +782,7 @@
       "date": "2025-09-20",
       "endDate": "2025-09-20",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "information"
     },
     {
       "title": "Singapore Deviation Public Art Tour",
@@ -837,7 +837,7 @@
       "date": "2025-09-21",
       "endDate": "2025-09-21",
       "type": "Guided Tour",
-      "status": "waitlist"
+      "status": "sold-out"
     }
   ]
 }
