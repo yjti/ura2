@@ -60,7 +60,7 @@
         events,
         cutoffDate,
         mount: document.getElementById("featured"),
-        maxSlides: 3,
+        maxSlides: 4,
         intervalMs: 15000
       });
 
@@ -148,7 +148,7 @@
     }
 
     /* === Featured carousel builder === */
-    function buildFeaturedCarousel({ events, cutoffDate, mount, maxSlides = 3, intervalMs = 6000 }) {
+    function buildFeaturedCarousel({ events, cutoffDate, mount, maxSlides = 4, intervalMs = 6000 }) {
       if (!mount) return;
 
       const today = new Date();
