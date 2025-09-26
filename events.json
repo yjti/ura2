@@ -1,6 +1,6 @@
 
 {
-  "cutoffDate": "2025-09-23",
+  "cutoffDate": "2025-09-30",
   "events": [
     {
       "title": "Waves of Wellness @ Marina Central",
@@ -583,8 +583,7 @@
       "date": "2025-09-09",
       "endDate": "2025-09-21",
       "type": "Self Guided Tour",
-      "status": "Information",
-      "featured": true
+      "status": "remove"
     },
     {
       "title": "Find Your Folks @ Jalan Besar: Makers' Trail",
@@ -727,7 +726,7 @@
       "date": "2025-09-20",
       "endDate": "2025-09-20",
       "type": "Activity",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Paper Paradise: Long Island Edition",
@@ -804,7 +803,7 @@
       "date": "2025-09-20",
       "endDate": "2025-09-20",
       "type": "Guided Tour",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "Find Your Folks @ Jalan Besar: Street Festival",
@@ -826,7 +825,7 @@
       "date": "2025-09-21",
       "endDate": "2025-09-21",
       "type": "Activity",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Guided Walk of St John's Island",
@@ -838,6 +837,183 @@
       "endDate": "2025-09-21",
       "type": "Guided Tour",
       "status": "sold-out"
+    },
+    {
+      "title": "Guided tour on Lively Places Fund: Green Gaia",
+      "description": "Discover how residents created senior-friendly gardens at Spottiswoode Park with vertical farms and sheltered spaces!",
+      "image": "event-pictures/event-gtlpfgg.jpg",
+      "qr": "event-qr/qr-gtlpfgg.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-26",
+      "endDate": "2025-09-26",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Craft Workshop: Paya Lebar Air Base (PLAB) Edition",
+      "description": "Imagine tomorrow’s towns today! Kids can take on the role as city planners to design future PLAB town at AMK Town Centre.",
+      "image": "event-pictures/event-cwplab.jpg",
+      "qr": "event-qr/qr-cwplab.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-10-05",
+      "type": "Workshop",
+      "status": "available"
+    },
+    {
+      "title": "Self-guided tour of Ang Mo Kio (AMK) Heritage Trail",
+      "description": "Discover Ang Mo Kio through a heritage trail. Snap a selfie along the trail and get exclusive prizes at AMK Town Centre!",
+      "image": "event-pictures/event-sgtamkht.jpg",
+      "qr": "event-qr/qr-sgtamktc.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-10-05",
+      "type": "Self Guided Tour",
+      "status": "Information",
+      "featured": true
+    },
+    {
+      "title": "Self-guided tour of Hougang Heritage Trail",
+      "description": "Discover Hougang through a heritage trail. Snap a selfie along the trail & get exclusive prizes at AMK Town Centre!",
+      "image": "event-pictures/event-sgthht.jpg",
+      "qr": "event-qr/qr-sgthht.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-10-05",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+    {
+      "title": "Self-guided tour of the Central Urban Loop",
+      "description": "Discover the neighbourhoods and parks in the Central Urban Loop! Snap selfies & get exclusive prizes at AMK Town Centre.",
+      "image": "event-pictures/event-sgtcul.jpg",
+      "qr": "event-qr/qr-sgtcul.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-10-05",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+    {
+      "title": "Self-guided tour of the North-East Riverine Loop",
+      "description": "Discover the north-eastern coastline & waterways! Snap selfies along the loop & get exclusive prizes at AMK Town Centre.",
+      "image": "event-pictures/event-sgtnerl.jpg",
+      "qr": "event-qr/qr-sgtnerl.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-10-05",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+    {
+      "title": "NLB Pop-up at Ang Mo Kio Town Centre",
+      "description": "Visit our booth at AMK Town Centre to learn about & share views on the new Ang Mo Kio Library!",
+      "image": "event-pictures/event-nlbamktc.jpg",
+      "qr": "event-qr/qr-nosignups.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-09-28",
+      "type": "Activity",
+      "status": "remove"
+    },
+    {
+      "title": "Guided tour of North-South Corridor Project Information Centre",
+      "description": "Learn how engineers are building the new transport corridor to the city at NSC's Ang Mo Kio Project Information Centre!",
+      "image": "event-pictures/event45.jpg",
+      "qr": "event-qr/qr-gtnscpic.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-09-27",
+      "type": "Guided Tour",
+      "status": "Available"
+    },
+    {
+      "title": "Guided tour of Punggol Regional Library",
+      "description": "Tour Punggol Library and learn about its inclusive design which was co-created with persons with disabilities.",
+      "image": "event-pictures/event-gtprl.jpg",
+      "qr": "event-qr/qr-gtprl27sep.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-09-27",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Singapore Botanic Gardens: Guided Exhibition Tour",
+      "description": "Explore Singapore Botanic Gardens' Centres, Museum and Gallery with our volunteer guides on an educational journey.",
+      "image": "event-pictures/event-sbgget.jpg",
+      "qr": "event-qr/qr-sbgget.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-09-27",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Singapore Botanic Gardens: Science Behind a Botanic Garden Tour",
+      "description": "Explore research facilities at Singapore Botanic Gardens such as the Library of Botany & Horticulture and the Herbarium!",
+      "image": "event-pictures/event-sbgrat.jpg",
+      "qr": "event-qr/qr-sbgrat.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-27",
+      "endDate": "2025-09-27",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Guided tour of Lively Places Fund: Green Gaia",
+      "description": "Discover how residents created senior-friendly gardens at Spottiswoode Park with vertical farms and sheltered spaces!",
+      "image": "event-pictures/event-gtlpfgg.jpg",
+      "qr": "event-qr/qr-gtlpfgg2.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-28",
+      "endDate": "2025-09-28",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Guided tour of Punggol Regional Library",
+      "description": "Tour Punggol Library and learn about its inclusive design which was co-created with persons with disabilities.",
+      "image": "event-pictures/event-gtprl.jpg",
+      "qr": "event-qr/qr-gtprl28sep.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-28",
+      "endDate": "2025-09-28",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Paper Paradise: Dover-Medway Edition",
+      "description": "Kids 7-12: Learn how we plan for Singapore and try designing a future town at Dover-Medway! Workshop @ Great World City",
+      "image": "event-pictures/event-ppdm.jpg",
+      "qr": "event-qr/qr-ppdm28sep.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-28",
+      "endDate": "2025-09-28",
+      "type": "Workshop",
+      "status": "available"
+    },
+    {
+      "title": "Guided tour of One Punggol",
+      "description": "Explore One Punggol, a hub with seamlessly integrated public services & amenities, including a library & hawker centre!",
+      "image": "event-pictures/event-gtop.jpg",
+      "qr": "event-qr/qr-gtop29sep.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-29",
+      "endDate": "2025-09-29",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Guided tour of One Punggol",
+      "description": "Explore One Punggol, a hub with seamlessly integrated public services & amenities, including a library & hawker centre!",
+      "image": "event-pictures/event-gtop.jpg",
+      "qr": "event-qr/qr-gtop30sep.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-09-30",
+      "endDate": "2025-09-30",
+      "type": "Guided Tour",
+      "status": "available"
     }
   ]
 }
