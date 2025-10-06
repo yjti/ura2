@@ -308,6 +308,10 @@ html, body {
   height: 200px;
   margin-top: 8px;
   margin-bottom: 28px;
+  box-sizing: border-box;
+  background-color: white;
+  padding: 10px;
+  border-radius: 30px;
 }
 
 
