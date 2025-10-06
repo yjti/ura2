@@ -1188,7 +1188,8 @@
       "date": "2025-10-07",
       "endDate": "2025-10-19",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
     {
       "title": "Scenic Quarries in the West",
@@ -1199,7 +1200,8 @@
       "date": "2025-10-07",
       "endDate": "2025-10-19",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
      {
       "title": "The Activity and Lifestyle Corridors of Choa Chu Kang",
@@ -1210,7 +1212,8 @@
       "date": "2025-10-07",
       "endDate": "2025-10-19",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
     {
       "title": "Guided tour of Lively Places Fund - Mural Painting for Dementia Wayfinding",
