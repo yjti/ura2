@@ -1,6 +1,6 @@
 
 {
-  "cutoffDate": "2025-10-14",
+  "cutoffDate": "2025-10-21",
   "events": [
     {
       "title": "Waves of Wellness @ Marina Central",
@@ -1422,7 +1422,7 @@
       "date": "2025-10-21",
       "endDate": "2025-10-21",
       "type": "Guided Tour",
-      "status":"available"
+      "status":"remove"
     }
   ]
 }
