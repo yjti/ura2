@@ -1,6 +1,6 @@
 
 {
-  "cutoffDate": "2025-10-06",
+  "cutoffDate": "2025-10-14",
   "events": [
     {
       "title": "Waves of Wellness @ Marina Central",
@@ -869,8 +869,7 @@
       "date": "2025-09-27",
       "endDate": "2025-10-05",
       "type": "Self Guided Tour",
-      "status": "Information",
-      "featured": true
+      "status": "Information"
     },
     {
       "title": "Self-guided tour of Hougang Heritage Trail",
@@ -881,8 +880,7 @@
       "date": "2025-09-27",
       "endDate": "2025-10-05",
       "type": "Self Guided Tour",
-      "status": "Information",
-      "featured": true
+      "status": "Information"
     },
     {
       "title": "Self-guided tour of the Central Urban Loop",
@@ -893,8 +891,7 @@
       "date": "2025-09-27",
       "endDate": "2025-10-05",
       "type": "Self Guided Tour",
-      "status": "Information",
-      "featured": true
+      "status": "Information"
     },
     {
       "title": "Self-guided tour of the North-East Riverine Loop",
@@ -905,8 +902,7 @@
       "date": "2025-09-27",
       "endDate": "2025-10-05",
       "type": "Self Guided Tour",
-      "status": "Information",
-      "featured": true
+      "status": "Information"
     },
     {
       "title": "NLB Pop-up at Ang Mo Kio Town Centre",
@@ -1038,7 +1034,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Guided tour of North-South Corridor Project Information Centre",
@@ -1049,7 +1045,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Guided tour of Pulau Ubin",
@@ -1060,7 +1056,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "sold-out"
+      "status": "remove"
     },
     {
       "title": "Guided tour of Sentosa Sensoryscape",
@@ -1071,7 +1067,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Guided tours of industrial developments in one-north",
@@ -1082,7 +1078,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "North-South Corridor Master Plan Pop-up",
@@ -1093,7 +1089,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Activity",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Paper Paradise: Dover-Medway Edition",
@@ -1104,7 +1100,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Workshop",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Seniors Band Performance by A Good Place",
@@ -1115,7 +1111,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Activity",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Singapore Botanic Gardens: Guided Tour of Gallop Extension",
@@ -1126,7 +1122,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Singapore Botanic Gardens: Guided tour of Healing Garden",
@@ -1137,7 +1133,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Singapore Botanic Gardens: Guided tour of Rain Forest",
@@ -1148,7 +1144,7 @@
       "date": "2025-10-04",
       "endDate": "2025-10-04",
       "type": "Guided Tour",
-      "status": "information"
+      "status": "remove"
     },
     {
       "title": "Guided tour of Sentosa Sensoryscape",
@@ -1159,7 +1155,7 @@
       "date": "2025-10-05",
       "endDate": "2025-10-05",
       "type": "Guided Tour",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Isopod Breeding and Ecosystem Workshop by A Good Place",
@@ -1170,7 +1166,7 @@
       "date": "2025-10-06",
       "endDate": "2025-10-06",
       "type": "Workshop",
-      "status": "available"
+      "status": "remove"
     },
     {
       "title": "Talk on Understanding and Engaging Autistic Individuals by A Good Place",
@@ -1181,9 +1177,250 @@
       "date": "2025-10-06",
       "endDate": "2025-10-06",
       "type": "Activity",
+      "status": "remove"
+    },
+    {
+      "title": "Exploring CleanTech Park in Jurong Innovation District",
+      "description": "Explore CleanTech Park! Snap selfies at 2 checkpoints along the trail & redeem a token at Lot One, while stocks last!",
+      "image": "event-pictures/events-sgtctp.jpg",
+      "qr": "event-qr/qr-sgtctp.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-07",
+      "endDate": "2025-10-19",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+    {
+      "title": "Scenic Quarries in the West",
+      "description": "Explore scenic quarries! Snap selfies at 2 checkpoints along the trail & redeem a token at Lot One, while stocks last!",
+      "image": "event-pictures/events-sgtsq.jpg",
+      "qr": "event-qr/qr-sgtsq.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-07",
+      "endDate": "2025-10-19",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+     {
+      "title": "The Activity and Lifestyle Corridors of Choa Chu Kang",
+      "description": "Discover Choa Chu Kang! Snap selfies at 2 checkpoints along the trail & redeem a token at Lot One, while stocks last!",
+      "image": "event-pictures/events-sgtcck.jpg",
+      "qr": "event-qr/qr-sgtcck.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-07",
+      "endDate": "2025-10-19",
+      "type": "Self Guided Tour",
+      "status": "Information"
+    },
+    {
+      "title": "Guided tour of Lively Places Fund - Mural Painting for Dementia Wayfinding",
+      "description": "Join a guided tour to explore 10 art pieces that provide effective wayfinding for people with dementia!",
+      "image": "event-pictures/event-gtlpfmpdw.jpg",
+      "qr": "event-qr/qr-lpfmpdw8oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-08",
+      "endDate": "2025-10-08",
+      "type": "Guided Tour",
       "status": "available"
+    },
+    {
+      "title": "Guided tour on Lively Places Fund – Buona Vista Green Eye View",
+      "description": "Explore Buona Vista's record-breaking community gardening hub with heritage-inspired Hakka floor art!",
+      "image": "event-pictures/events-lpfbvgev.avif",
+      "qr": "event-qr/qr-lpfbvgev.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-08",
+      "endDate": "2025-10-08",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Isopod Breeding and Ecosystem Workshop by A Good Place",
+      "description": "Connect with others through isopod breeding in this hands-on workshop!",
+      "image": "event-pictures/event-ibew.jpg",
+      "qr": "event-qr/qr-ibew9oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-09",
+      "endDate": "2025-10-09",
+      "type": "Workshop",
+      "status": "available"
+    },
+    {
+      "title": "Talk on Understanding and Engaging Autistic Individuals by A Good Place",
+      "description": "Learn about autism & support strategies! Discover how to create inclusive spaces & build meaningful connections.",
+      "image": "event-pictures/event-tueai.jpg",
+      "qr": "event-qr/qr-tueai9oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-09",
+      "endDate": "2025-10-09",
+      "type": "Activity",
+      "status": "available"
+    },
+    {
+      "title": "Guided tour of industrial developments in one-north",
+      "description": "Tour Singapore's innovation hub! Explore how research, business & lifestyle are integrated in this sustainable district.",
+      "image": "event-pictures/events-gton.avif",
+      "qr": "event-qr/qr-gton10oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-10",
+      "endDate": "2025-10-10",
+      "type": "Guided Tour",
+      "status": "sold-out"
+    },
+    {
+      "title": "Guided tour of Japanese Gardens",
+      "description": "Tour the new Japanese Gardens at Jurong Lake! Experience traditional architecture and serene landscapes.",
+      "image": "event-pictures/events-ftjg.jpg",
+      "qr": "event-qr/qr-gtjg.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-11",
+      "endDate": "2025-10-11",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Guided tour of Rail Corridor",
+      "description": "Explore Rail Corridor's past! See Bukit Timah Railway Station & learn about local wildlife on a family-friendly tour.",
+      "image": "event-pictures/events-gtrcc.jpg",
+      "qr": "",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-11",
+      "endDate": "2025-10-11",
+      "type": "Guided Tour",
+      "status": "sold-out"
+    },
+    {
+      "title": "Guided tour on Lively Places Fund – Mural Painting for Dementia Wayfinding",
+      "description": "Join a guided tour to explore 10 art pieces that provide effective wayfinding for people with dementia!",
+      "image": "event-pictures/event-gtlpfmpdw.jpg",
+      "qr": "event-qr/qr-lpfmpdw11oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-11",
+      "endDate": "2025-10-11",
+      "type": "Guided Tour",
+      "status": "available"
+    },
+    {
+      "title": "Guided walk of St John's Island",
+      "description": "Discover the rich biodiversity and history of St John's Island on this 1.6km walking tour!",
+      "image": "event-pictures/event-gwsji.jpg",
+      "qr": "event-qr/qr-gwsji11oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-11",
+      "endDate": "2025-10-11",
+      "type": "Guided Tour",
+      "status": "sold-out"
+    },
+    {
+      "title": "Southern Islands Eco-Escape",
+      "description": "Discover a rustic getaway minutes from Sentosa, where pristine beaches meet rich biodiversity and sustainable tourism.",
+      "image": "event-pictures/events-siee.jpg",
+      "qr": "event-qr/qr-gwsji11oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-11",
+      "endDate": "2025-10-11",
+      "type": "Guided Tour",
+      "status": "sold-out"
+    },
+    {
+      "title": "Paper Paradise: Dover-Medway Edition",
+      "description": "Kids 7-12: Learn how we plan for Singapore and try designing a future town at Dover-Medway! Workshop @ One Holland V",
+      "image": "event-pictures/event-ppdm.jpg",
+      "qr": "event-qr/qr-ppdm12oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-12",
+      "endDate": "2025-10-12",
+      "type": "Workshop",
+      "status": "available"
+    },
+{
+      "title": "Southwestern Parks Pop-up",
+      "description": "NParks plan to enhance 13 southern parks into connected trails and Destination Parks. Share your ideas @ One Holland V!",
+      "image": "event-pictures/events-swpp.avif",
+      "qr": "event-qr/qr-nosignups.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-12",
+      "endDate": "2025-10-12",
+      "type": "Activity",
+      "status": "available"
+    },
+{
+      "title": "Craft Workshop - West Region Edition",
+      "description": "Kids 7-12: Be city planners for a day! Join this fun 1hr workshop to design Singapore with your family.",
+      "image": "event-pictures/events-cw.jpg",
+      "qr": "event-qr/qr-cwwre12oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-12",
+      "endDate": "2025-10-12",
+      "type": "Activity",
+      "status": "available"
+    },
+{
+      "title": "Southern Islands Eco-Escape",
+      "description": "Discover a rustic getaway minutes from Sentosa, where pristine beaches meet rich biodiversity and sustainable tourism.",
+      "image": "event-pictures/events-siee.jpg",
+      "qr": "event-qr/qr-gwsji11oct.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-12",
+      "endDate": "2025-10-12",
+      "type": "Guided Tour",
+      "status": "sold-out"
+    },
+{
+      "title": "Salsation Workout Programme",
+      "description": "Join a Salsation workout programme & get active with Healthy 365! Find tips & programmes to live a healthier lifestyle.",
+      "image": "event-pictures/events-hpb.avif",
+      "qr": "event-qr/qr-hpb.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-13",
+      "endDate": "2025-10-13",
+      "type": "Activity",
+      "status": "available"
+    },
+{
+      "title": "Quick HIIT Workout Programme",
+      "description": "Join a HIIT workout programme & get active with Healthy 365! Find tips & programmes to live a healthier lifestyle.",
+      "image": "event-pictures/events-hpb.avif",
+      "qr": "event-qr/qr-hpb.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-16",
+      "endDate": "2025-10-16",
+      "type": "Activity",
+      "status":"Available"
+    },
+  {
+      "title": "SportSG: $100 SG60 ActiveSG Credits/AHrena Lite/Active Parents",
+      "description": "Learn more about the SG60 $100 ActiveSG credit top-up & join the AHrena fitness challenge at Lot One!",
+      "image": "event-pictures/events-sportsg.jpg",
+      "qr": "event-qr/qr-nosignups.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-18",
+      "endDate": "2025-10-19",
+      "type": "Activity",
+      "status":"available"
+    },
+  {
+      "title": "Trees of the Fort Tour",
+      "description": "Discover unique trees! See giant Kapok, Banyan roots, record Madras Thorn & upside-down Baobab on this park tour.",
+      "image": "event-pictures/events-totf.jpg",
+      "qr": "event-qr/qr-totf.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-18",
+      "endDate": "2025-10-18",
+      "type": "Guided Tour",
+      "status":"available"
+    },
+  {
+      "title": "Guided tour of former Combined Operations Room",
+      "description": "Experience Singapore's former police & military command centre, which safeguarded the nation's security and heritage.",
+      "image": "event-pictures/events-gtfcor.jpg",
+      "qr": "event-qr/qr-gtfcor.png",
+      "soldOutQr": "event-qr/qr-sold-out.png",
+      "date": "2025-10-21",
+      "endDate": "2025-10-21",
+      "type": "Guided Tour",
+      "status":"available"
     }
-
   ]
 }
 
