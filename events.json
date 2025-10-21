@@ -869,7 +869,8 @@
       "date": "2025-10-25",
       "endDate": "2025-11-02",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
     {
       "title": "Self-guided tour of Hougang Heritage Trail",
@@ -880,7 +881,8 @@
       "date": "2025-10-25",
       "endDate": "2025-11-02",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
     {
       "title": "Self-guided tour of the Central Urban Loop",
@@ -891,7 +893,8 @@
       "date": "2025-10-25",
       "endDate": "2025-11-02",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
     {
       "title": "Self-guided tour of the North-East Riverine Loop",
@@ -902,7 +905,8 @@
       "date": "2025-10-25",
       "endDate": "2025-11-02",
       "type": "Self Guided Tour",
-      "status": "Information"
+      "status": "Information",
+      "featured":true
     },
     {
       "title": "NLB Pop-up at Ang Mo Kio Town Centre",
